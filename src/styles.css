@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.border {
+  border: 2px #834187 solid;
+  background-color: black;
+  height: 160px;
+  width: 190px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.title {
+  color: white;
+}
+.element {
+  color: #834187;
+  font-size: 80px;
+}
+.element-name {
+  color: white;
+  font-size: 30px;
+}
